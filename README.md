@@ -1,2 +1,2 @@
-# XBEE-Arduino-PANID-change
+# XBEE-Arduino-change-PANID
 ArduinoとつないだXBEE S2CのPAN IDをATコマンドで変える
